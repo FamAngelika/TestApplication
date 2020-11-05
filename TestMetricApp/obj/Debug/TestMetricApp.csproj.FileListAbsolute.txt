@@ -1,0 +1,10 @@
+C:\Users\Кривов_МВ\source\repos\TestMetricApp\TestMetricApp\bin\Debug\TestMetricApp.exe.config
+C:\Users\Кривов_МВ\source\repos\TestMetricApp\TestMetricApp\bin\Debug\TestMetricApp.exe
+C:\Users\Кривов_МВ\source\repos\TestMetricApp\TestMetricApp\bin\Debug\TestMetricApp.pdb
+C:\Users\Кривов_МВ\source\repos\TestMetricApp\TestMetricApp\bin\Debug\TestLib.dll
+C:\Users\Кривов_МВ\source\repos\TestMetricApp\TestMetricApp\bin\Debug\TestLib.pdb
+C:\Users\Кривов_МВ\source\repos\TestMetricApp\TestMetricApp\obj\Debug\TestMetricApp.csprojAssemblyReference.cache
+C:\Users\Кривов_МВ\source\repos\TestMetricApp\TestMetricApp\obj\Debug\TestMetricApp.csproj.CoreCompileInputs.cache
+C:\Users\Кривов_МВ\source\repos\TestMetricApp\TestMetricApp\obj\Debug\TestMetricApp.csproj.CopyComplete
+C:\Users\Кривов_МВ\source\repos\TestMetricApp\TestMetricApp\obj\Debug\TestMetricApp.exe
+C:\Users\Кривов_МВ\source\repos\TestMetricApp\TestMetricApp\obj\Debug\TestMetricApp.pdb

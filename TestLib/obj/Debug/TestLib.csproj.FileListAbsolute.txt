@@ -1,0 +1,6 @@
+C:\Users\Кривов_МВ\source\repos\TestMetricApp\TestLib\bin\Debug\TestLib.dll
+C:\Users\Кривов_МВ\source\repos\TestMetricApp\TestLib\bin\Debug\TestLib.pdb
+C:\Users\Кривов_МВ\source\repos\TestMetricApp\TestLib\obj\Debug\TestLib.csprojAssemblyReference.cache
+C:\Users\Кривов_МВ\source\repos\TestMetricApp\TestLib\obj\Debug\TestLib.csproj.CoreCompileInputs.cache
+C:\Users\Кривов_МВ\source\repos\TestMetricApp\TestLib\obj\Debug\TestLib.dll
+C:\Users\Кривов_МВ\source\repos\TestMetricApp\TestLib\obj\Debug\TestLib.pdb
